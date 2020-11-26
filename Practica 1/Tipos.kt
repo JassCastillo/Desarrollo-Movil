@@ -14,4 +14,26 @@ val binary = 0b01010101
     println(float)
     println(hexadecimal)
     println(binary)
+
+// Boleanos
+
+val x = 1
+val y = 2
+val z = 2
+val esTrue = x < y && x < z
+val otroTrue = x == y || y == z
+
+    println(x)
+    println(y)
+    println(z)
+    println(esTrue)
+    println(otroTrue)  
+
+//Cadenas
+val string = "string con \n una línea nueva"
+val rawString = """
+ raw string es útil para
+ cadenas con muchas lineas
+ """
+
 }
