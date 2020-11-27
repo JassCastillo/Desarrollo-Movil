@@ -1,13 +1,13 @@
 fun main()
 {
 
-    var nombre = "Gerardo"
-    nombre = "Josue"
+    val nombre = "Gerardo"
+    //nombre = "Josue"
 
     println("Mi nombre es $nombre")
 
-    var apellido = "Castillo"
-    apellido = "Morales"
+    val apellido = "Castillo"
+    //apellido = "Morales"
 
     println("Mi apellido es $apellido")
 
