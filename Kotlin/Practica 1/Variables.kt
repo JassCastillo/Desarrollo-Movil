@@ -1,7 +1,7 @@
 fun main()
 {
 
-    val nombre = "Gerardo"
+    var nombre = "Gerardo"
     //nombre = "Josue"
 
     println("Mi nombre es $nombre")
